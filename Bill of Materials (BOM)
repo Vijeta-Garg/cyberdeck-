@@ -4,5 +4,6 @@ The bill of materials for this project are as follows:
 2. Solenoid Valve (6V) x2 
 3. LM2596 buck converter 
 4. 1 battery pack of 4 batteries (1.5V each) 
-5. Perfboard 
-6. Raspberry Pico 
+5. TIP120 (x4) 
+6. Arduino Uno 
+7. 1N4007 diode (x4) 
