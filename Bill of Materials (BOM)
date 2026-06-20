@@ -1,0 +1,8 @@
+The bill of materials for this project are as follows:
+
+1. Air pump (6V) x2 
+2. Solenoid Valve (6V) x2 
+3. LM2596 buck converter 
+4. 1 battery pack of 4 batteries (1.5V each) 
+5. Perfboard 
+6. Raspberry Pico 
