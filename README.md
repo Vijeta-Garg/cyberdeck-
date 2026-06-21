@@ -17,3 +17,4 @@ An example of the before and after:
 <img width="1832" height="1304" alt="image" src="https://github.com/user-attachments/assets/e8f6089b-c8e3-42c0-9605-1c16a74d7f5a" />
 
 **Now: ElectroWEAR**
+<img width="982" height="1316" alt="image" src="https://github.com/user-attachments/assets/508ca864-12ce-4caa-93dc-d4b3f13c385f" />
