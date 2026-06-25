@@ -25,6 +25,8 @@ This is the wiring diagram/schematic. This includes both the electrical parts of
 
 
 # Layout 
+<img width="1824" height="1536" alt="image" src="https://github.com/user-attachments/assets/2e19d0a2-084f-4f0e-a479-0f0f6f71bf8b" />
+
 
 # PCB (and maybe CAD) 
 
