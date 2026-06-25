@@ -34,9 +34,9 @@ This is how the circuit is mapped out onto the wearable. Currently the main "con
 
 # How to build this? 
 1. Wire up the main electrical component (refer to the schematic in pcb folder). Every solenoid valve or air pump added require the same subset of wiring: TIP120 connected to 1N4007 diode and also connected to the component and GND and Power rails.
-2. Connect this circuit to the 6V battery holder. Put the 1.5V batteries inside this battery holder. Remember NOT to plug the 6V directly into the arduino! Plug into power rail to share with components!
+2. Connect this circuit to the 6V battery holder. Put the 1.5V batteries inside this battery holder. Remember NOT to plug the 6V directly into the arduino! Plug into power rail to share with components! Either connect by soldering or alligator clips! 
 3. Import firmware to arduino IDE and run the circuit
-4. Build out the pneumatic section of the circuit by using the schematic as reference. The joint parts are all pneumatic connectors *which look like pipes. Test the circuit out with the pneumatic connections as well
+4. Build out the pneumatic section of the circuit by using the schematic as reference. The joint parts are all pneumatic connectors *which look like pipes. Test the circuit out with the pneumatic connections as well. Get pneumatic connectors (plastic tubes) to connect the pipes 
 5. Cut out 4 different pockets (preferably of strong material like denim) on a shirt and place the circuit as detailed in the layout diagram. If you have a soft textile actuator (or any output you want the electropneumatic to puff up) place that in the top-left pocket) 
 6. Sew the pockets closed and the build is done!
 7. Print out the flex PCB design detailed in this repo. Then, unsew the controller pocket and connect that to the arduino + into the pocket instead of the earlier perfboarded/breadboarded version!
