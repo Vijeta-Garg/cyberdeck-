@@ -1,10 +1,10 @@
 SR. No,Items,Quantity,Unit Price,Total price,URL
-1,Solenoid Va,1,9.29,9.29,https://www
-2,1 battery AA,1,3.35,3.35,https://www
-3,TIP120 Darl,2,0.7,1.4,self-source
-4,Arduino Un,1,14.24,14.24,self-source
-5,1N4007 dic,2,0.2,0.4,self-source
-6,Air pump (6,1,4.99,4.99,https://www
-7,1.5V batteri,4,1.31,5.25,https://www
+1,Solenoid Valve,1,9.29,9.29,https://www.amazon.com/uxcell-Miniature-Solenoid-Normally-Closed/dp/B07WR9BKLB/ref=sr_1_3?dib=eyJ2IjoiMSJ9.6yPlFh9YpI63_a3kNmtiYEgQWhCJCFOkGrn8dfDYcO9bpiOyTEgP2gfxRj7UL735zYrKGOwsUB48cxB0WIsDC0Hi2RbsIHmTsFJSOKeAAL5IkkzzxtsaDM7_gP9CENb0wtRHcC42MfuhGtb1Tbl43XlVyjetX2d1rXByMEUMeNNXC8K9XqBzS6SQ3yeZoQA6ASWgMFTw8paEV3cQcQlrYeRvKiMBQMqx8otoDsCoKGw.LJxEHLU8oybqo_ODF_obkOGbxCWr99A1nF2uGm2y8Mw&dib_tag=se&keywords=6v+solenoid+valve&qid=1781668284&sr=8-3
+2,1 battery AA holder,1,3.35,3.35,https://www.amazon.com/DaierTek-Battery-Holder-Storage-Connector/dp/B09N1GDWQ9/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.hQVCzDNE3wFs2GVL11to1rfhCIFpqyfpiseatFzJMs0d06Jg7Ow5h9KleNZrwzd4RRYlDEyGKQ8HFqFWFIWNsNLkhHi4idNB1bjhuvwn7j2FTn_PVTjiFxvZ0A-wsRSpxGdIb-_01DhqAL7XquGCNgafXh81h4lA2CEYcDna7r8o_-nvW1Vn_q0NdRJZ_h2NOg3A4_P0C_s7r6M79IPb5-x9pWHdz_qIKdt6ZVxPwzg.Je7yQtPJYaqtUIes0cahXX2IxScydGvCiw168qKtR_E&dib_tag=se&keywords=4%2Baa%2Bbattery%2Bholder&qid=1781668971&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+3,TIP120 Darlington Transistor,2,0.7,1.4,self-sourced
+4,Arduino Uno,1,14.24,14.24,self-sourced
+5,1N4007 diode,2,0.2,0.4,self-sourced
+6,Air pump (6V),1,4.99,4.99,https://www.amazon.com/Micro-Air-Pump-Electric-Instruments/dp/B0BF5XPXZY/ref=sr_1_1?dib=eyJ2IjoiMSJ9.4Ocb8LCYUuz4JuB-J73NdBQdVMlValvPqPrYwjYlxIKVtSwXR5nSEF-kakEwOFz9u-F15Ps8QqPOuCCpf38zs5CUBpaqyvVZgRKl8Qd1fsSdIq6DAOMS4Kc46I0Gs39W9_lQvcjIMjGiEF_UMV9TfL0hM3FupZx6lXcDc-oKwoIdTOYCTlhek5JsuMknO0Qj_6cnK8AxRTspNY-54Lcj0ozo5Dre_4IEwJ7l8W-KvEzGlacNQSypuc8FJ953zf8ebswGt53SDJ4K5XvHXX77AllMYVurp6O3aazEUqn_lKY.M2yk85zD5hO_F01PaDgvu0hP6Gz16LxNXivV6QLN4kQ&dib_tag=se&keywords=6+volt+air+pump&qid=1781667136&sr=8-1
+7,1.5V battery AA,4,1.31,5.25,https://www.amazon.com/Duracell-CopperTop-Batteries-All-Purpose-Household/dp/B00000JHQ6/ref=sr_1_6?crid=L7ZVV6P2BQCF&dib=eyJ2IjoiMSJ9.cefzBtNmxBWloqNKisPT7OpC9BCcUvxuhk8yWCnPRWRspsDrDx94IqROqTR1BPGAO8mOz1bT3BBehAWSnCLF5CUDQuuMDmbdL65F6cr9PRXrhbwkSF9cVkylbzBvr1DbyUA-tvFLHFY2i5rr9biWTg-TQTrF1eFxlNBaP1iBzlC-EFc1Qx1EWq3WrJ254Nnf2-4DFg_c8s9nF25XScIV9vcKgrMkyBr9ZTfcEUBnGdQP19yHEqEtTtEXqrrzQxbeBTt5gtC9yedLdIf-q-6FiXWJASFFDsyWHPwZqUA8Qdk.qjUd1o3dcZMGElfeK0LX1S8CbOVWt22Cqznfa0pX_Hk&dib_tag=se&keywords=1.5v%2Baa%2Bbatteries&qid=1782421263&sprefix=1.5v%2Baa%2Bbatteri%2Caps%2C201&sr=8-6&th=1
 Total,8,19,,34.52,
 
