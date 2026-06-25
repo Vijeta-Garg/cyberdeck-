@@ -24,6 +24,15 @@ This is the wiring diagram/schematic. This includes both the electrical parts of
 <img width="1968" height="1366" alt="image" src="https://github.com/user-attachments/assets/90bc1018-b635-41c0-b0ff-a7858eef6635" />
 
 
+# Layout 
+
+# PCB (and maybe CAD) 
+
+
+# How to build this? 
+
+*include Zine here! 
+
 # BOM (properly formatted in the bom.csv file in the repo) 
 Please note: I don't need reimbursement for any of these materials since I can use research grant money I've gotten for this project! 
 <img width="1614" height="642" alt="image" src="https://github.com/user-attachments/assets/9d5b43d0-17fa-4d1b-874a-dce32d701036" />
