@@ -31,6 +31,8 @@ Also note: if one was to wear ElectroWEAR the battery component would theoretica
 
 
 # PCB (and maybe CAD) 
+Here is a 3D version of my PCB! Note: The PCB isn't printed yet but it would essentially just replace the breadboard in the breadboard pocket as it has all the same parts. 
+<img width="2144" height="1220" alt="image" src="https://github.com/user-attachments/assets/e483beb1-a2c3-4759-b6f4-262c7c3bb517" />
 
 
 # How to build this? 
