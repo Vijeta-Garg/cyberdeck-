@@ -21,7 +21,7 @@ An example of the before and after:
 
 # Schematic 
 This is the wiring diagram/schematic. This includes both the electrical parts of the circuit (contained in the "main circuit board") and the pneumatic parts of the circuit (which are integrated across the wearable rather than in the gray pocket on the bottom-left)!
-<img width="1762" height="1256" alt="image" src="https://github.com/user-attachments/assets/fe2e1eb4-ab54-4db3-8f9e-3e871fd0aed0" />
+<img width="1776" height="1166" alt="image" src="https://github.com/user-attachments/assets/20c83b9a-02ff-4674-aa87-99106a88089b" />
 
 
 # Layout 
