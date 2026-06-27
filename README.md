@@ -50,5 +50,5 @@ Here is a 3D version of my PCB! Note: The PCB isn't printed yet but it would ess
 
 # BOM (properly formatted in the bom.csv file in the repo) 
 Please note: I don't need reimbursement for any of these materials since I can use research grant money I've gotten for this project! 
-<img width="2010" height="772" alt="image" src="https://github.com/user-attachments/assets/a1dbf324-60ee-4ab0-be81-242c7361af18" />
+<img width="2142" height="926" alt="image" src="https://github.com/user-attachments/assets/43aad4a5-d419-478b-93d5-e321bdc6a401" />
 
