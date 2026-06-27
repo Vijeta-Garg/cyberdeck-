@@ -34,14 +34,16 @@ Also note: if one was to wear ElectroWEAR the battery component would theoretica
 Here is a 3D version of my PCB! Note: The PCB isn't printed yet but it would essentially just replace the breadboard in the breadboard pocket as it has all the same parts. 
 <img width="2144" height="1220" alt="image" src="https://github.com/user-attachments/assets/e483beb1-a2c3-4759-b6f4-262c7c3bb517" />
 
-I also CADDed some connectors for the pneumatic circuit to connect the smaller pipes to the bigger ones (both are necessarybecause some the valve and air pump work better with some but the actuator works better with the smaller pipe) 
-https://www.tinkercad.com/things/jGbuTJKzcDS/edit?returnTo=%2Fdashboard&sharecode=0BTtQNpM6YuViGaWplz6nGzc2ZjLgraPeQsmGDZI_-0
+I also CADDed some connectors for the pneumatic circuit to connect the smaller pipes to the bigger ones (both are necessarybecause some the valve and air pump work better with some but the actuator works better with the smaller pipe). This solves the previous issue of using tape because you can just print this out and use it to connect the 1/4'' in OD piping and the 1/8'' in OD piping. 
+<img width="1130" height="814" alt="image" src="https://github.com/user-attachments/assets/bef9e32a-f16a-4a4d-8975-8b663ca495e7" />
+
+Here are the source files: https://www.tinkercad.com/things/jGbuTJKzcDS/edit?returnTo=%2Fdashboard&sharecode=0BTtQNpM6YuViGaWplz6nGzc2ZjLgraPeQsmGDZI_-0
 
 # How to build this? 
 1. Wire up the main electrical component (refer to the schematic in pcb folder). Every solenoid valve or air pump added require the same subset of wiring: TIP120 connected to 1N4007 diode and also connected to the component and GND and Power rails.
 2. Connect this circuit to the 6V battery holder. Put the 1.5V batteries inside this battery holder. Remember NOT to plug the 6V directly into the arduino! Plug into power rail to share with components! Either connect by soldering or alligator clips! 
 3. Import firmware to arduino IDE and run the circuit
-4. Build out the pneumatic section of the circuit by using the schematic as reference. The joint parts are all pneumatic connectors *which look like pipes. Test the circuit out with the pneumatic connections as well. Get pneumatic connectors (plastic tubes) to connect the pipes 
+4. Build out the pneumatic section of the circuit by using the schematic as reference. Use larger pipes to connect the air pump and solenoid valves and the smaller piping (1/8'' in OD) to connect to the actuator. Print out the CADDed connector to connect the pipes to each component. Then, Test the circuit out with the pneumatic connections as well. Get pneumatic connectors (plastic tubes) to connect the pipes 
 5. Cut out 4 different pockets (preferably of strong material like denim) on a shirt and place the circuit as detailed in the layout diagram. If you have a soft textile actuator (or any output you want the electropneumatic to puff up) place that in the top-left pocket) 
 6. Sew the pockets closed and the build is done!
 7. Print out the flex PCB design detailed in this repo. Then, unsew the controller pocket and connect that to the arduino + into the pocket instead of the earlier perfboarded/breadboarded version!
